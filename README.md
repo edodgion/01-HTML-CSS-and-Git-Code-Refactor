@@ -3,11 +3,13 @@ The purpose of this homework assignment was to go through and refactor the exist
 
 
 # Git Hub Link
+https://github.com/edodgion/01-HTML-CSS-and-Git-Code-Refactor
 
 
-
-# Screenshots How It Should Look
-
+# Screenshots/How It Should Look
+![](Screenshot(26).png)
+![](Screenshot(29).png)
+![](Screenshot(28).png)
 
 # Credit
 This homework assignment was done in VS Code by Eric Dodgion on the day of 02/21/2021
