@@ -8,8 +8,9 @@ https://github.com/edodgion/01-HTML-CSS-and-Git-Code-Refactor
 
 # Screenshots/How It Should Look
 ![](images/Screenshot(26).png)
-![](images/Screenshot(29).png)
 ![](images/Screenshot(28).png)
+![](images/Screenshot(31).png)
+![](images/Screenshot(32).png)
 
 # Credit
 This homework assignment was done in VS Code by Eric Dodgion on the day of 02/21/2021
